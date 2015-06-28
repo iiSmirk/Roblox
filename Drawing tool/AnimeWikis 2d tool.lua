@@ -15,7 +15,7 @@ player.Character:WaitForChild("Humanoid");
 local mouse = player:GetMouse();
 
 local color = "White";
-local size = 0.1;
+local size = 1.0;
 
 local down = false;
 
